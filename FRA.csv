@@ -1,0 +1,88 @@
+,Date,Artist,TrackName,aSearch,searcher,uri,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+0,2019-01-05,Redbone,Come And Get Your Love,Redbone,Come And Get Your Love Redbone,7GVUmCP00eSsqc4tzj1sDD,0.172,0.731,205933.0,0.804,0.00028,11.0,0.0685,-7.621,0.0,0.0473,107.383,4.0,0.957
+1,2019-01-12,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+2,2019-01-19,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+3,2019-01-26,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+4,2019-02-02,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+5,2019-02-09,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+6,2019-02-16,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+7,2019-02-23,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+8,2019-03-02,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+9,2019-03-09,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+10,2019-03-16,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+11,2019-03-23,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+12,2019-03-30,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+13,2019-04-06,PNL,Au Dd,PNL,Au Dd PNL,5lCxlSBFyP5g4EhVypAoOu,0.293,0.777,247161.0,0.698,2.32e-05,6.0,0.0908,-7.706,0.0,0.0704,119.963,4.0,0.119
+14,2019-04-13,PNL,Au Dd,PNL,Au Dd PNL,5lCxlSBFyP5g4EhVypAoOu,0.293,0.777,247161.0,0.698,2.32e-05,6.0,0.0908,-7.706,0.0,0.0704,119.963,4.0,0.119
+15,2019-04-20,Lady Gaga,Always Remember Us This Way,Lady Gaga,Always Remember Us This Way Lady Gaga,2rbDhOo9Fh61Bbu23T2qCk,0.299,0.553,210200.0,0.502,0.0,0.0,0.764,-5.972,1.0,0.0409,129.976,4.0,0.296
+16,2019-04-27,Lady Gaga,Always Remember Us This Way,Lady Gaga,Always Remember Us This Way Lady Gaga,2rbDhOo9Fh61Bbu23T2qCk,0.299,0.553,210200.0,0.502,0.0,0.0,0.764,-5.972,1.0,0.0409,129.976,4.0,0.296
+17,2019-05-04,Angele,Balance Ton Quoi,Angele,Balance Ton Quoi Angele,2jX5c5RFp0A9E1GDsvGxIa,0.594,0.703,189480.0,0.442,2.39e-05,0.0,0.276,-10.383,1.0,0.0823,115.932,4.0,0.381
+18,2019-05-11,Angele,Balance Ton Quoi,Angele,Balance Ton Quoi Angele,2jX5c5RFp0A9E1GDsvGxIa,0.594,0.703,189480.0,0.442,2.39e-05,0.0,0.276,-10.383,1.0,0.0823,115.932,4.0,0.381
+19,2019-05-18,Angele,Balance Ton Quoi,Angele,Balance Ton Quoi Angele,2jX5c5RFp0A9E1GDsvGxIa,0.594,0.703,189480.0,0.442,2.39e-05,0.0,0.276,-10.383,1.0,0.0823,115.932,4.0,0.381
+20,2019-05-25,Ed Sheeran & Justin Bieber,I Don't Care,Ed Sheeran,I Don't Care Ed Sheeran,3HVWdVOQ0ZA45FuZGSfvns,0.0912,0.798,219947.0,0.675,0.0,6.0,0.0894,-5.041,1.0,0.0442,101.956,4.0,0.842
+21,2019-06-01,Angele,Balance Ton Quoi,Angele,Balance Ton Quoi Angele,2jX5c5RFp0A9E1GDsvGxIa,0.594,0.703,189480.0,0.442,2.39e-05,0.0,0.276,-10.383,1.0,0.0823,115.932,4.0,0.381
+22,2019-06-08,Angele,Balance Ton Quoi,Angele,Balance Ton Quoi Angele,2jX5c5RFp0A9E1GDsvGxIa,0.594,0.703,189480.0,0.442,2.39e-05,0.0,0.276,-10.383,1.0,0.0823,115.932,4.0,0.381
+23,2019-06-15,PNL,MOWGLI II,PNL,MOWGLI II PNL,1w2OwBeojIZI8hTI5WkMkV,0.747,0.729,225953.0,0.533,4.54e-06,9.0,0.0848,-10.104,0.0,0.444,155.999,4.0,0.422
+24,2019-06-22,Angele,Balance Ton Quoi,Angele,Balance Ton Quoi Angele,2jX5c5RFp0A9E1GDsvGxIa,0.594,0.703,189480.0,0.442,2.39e-05,0.0,0.276,-10.383,1.0,0.0823,115.932,4.0,0.381
+25,2019-06-29,Clara Luciani,La Grenade,Clara Luciani,La Grenade Clara Luciani,7ixCRBD0FZMRBeOBhTu2KD,0.138,0.724,194493.0,0.697,0.000717,11.0,0.126,-6.594,0.0,0.0539,130.014,4.0,0.961
+26,2019-07-06,Angele,Balance Ton Quoi,Angele,Balance Ton Quoi Angele,2jX5c5RFp0A9E1GDsvGxIa,0.594,0.703,189480.0,0.442,2.39e-05,0.0,0.276,-10.383,1.0,0.0823,115.932,4.0,0.381
+27,2019-07-13,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+28,2019-07-20,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+29,2019-07-27,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+30,2019-08-03,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+31,2019-08-10,Billie Eilish,Bad Guy,Billie Eilish,Bad Guy Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,0.328,0.701,194088.0,0.425,0.13,7.0,0.1,-10.965,1.0,0.375,135.128,4.0,0.562
+32,2019-08-17,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+33,2019-08-24,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+34,2019-08-31,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+35,2019-09-07,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+36,2019-09-14,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+37,2019-09-21,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+38,2019-09-28,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+39,2019-10-05,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+40,2019-10-12,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+41,2019-10-19,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+42,2019-10-26,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+43,2019-11-02,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+44,2019-11-09,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+45,2019-11-16,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+46,2019-11-23,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+47,2019-11-30,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+48,2019-12-07,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+49,2019-12-14,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+50,2019-12-21,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+51,2019-12-28,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+52,2020-01-04,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+53,2020-01-11,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+54,2020-01-18,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+55,2020-01-25,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+56,2020-02-01,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+57,2020-02-08,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+58,2020-02-15,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+59,2020-02-22,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+60,2020-02-29,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+61,2020-03-07,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+62,2020-03-14,Lady Gaga,Stupid Love,Lady Gaga,Stupid Love Lady Gaga,7yBbV2k2S2uhaQc24NF2xt,0.00173,0.68,193533.0,0.825,0.000122,8.0,0.27,-4.296,1.0,0.0702,117.987,4.0,0.784
+63,2020-03-21,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+64,2020-03-28,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+65,2020-04-04,Calogero,On Fait Comme Si,Calogero,On Fait Comme Si Calogero,0QaVAoRnez6qMlLPqbB4fd,0.771,0.46,251625.0,0.328,1.61e-06,6.0,0.112,-10.53,0.0,0.0351,75.315,4.0,0.172
+66,2020-04-11,Calogero,On Fait Comme Si,Calogero,On Fait Comme Si Calogero,0QaVAoRnez6qMlLPqbB4fd,0.771,0.46,251625.0,0.328,1.61e-06,6.0,0.112,-10.53,0.0,0.0351,75.315,4.0,0.172
+67,2020-04-18,"Pagny, Obispo & Lavoine",Pour Les Gens du Secours,"Pagny, Obispo","Pour Les Gens du Secours Pagny, Obispo",4rMIWVinfurrct4MG6n7sn,0.539,0.249,246579.0,0.442,0.000478,6.0,0.157,-10.851,0.0,0.0307,78.447,4.0,0.278
+68,2020-04-25,Et demain ? Le Collectif,Et Demain ?,Et demain,Et Demain ? Et demain,4JGOGz0wbPMk5L4i2E4iP7,0.537,0.551,195495.0,0.613,0.0,7.0,0.122,-7.598,1.0,0.0589,91.106,4.0,0.505
+69,2020-05-02,Christophe,Les Mots Bleus,Christophe,Les Mots Bleus Christophe,2Desf0YgquK9YrSkRhkvDN,0.497,0.349,250613.0,0.71,1.42e-06,11.0,0.0308,-4.412,1.0,0.037,138.31,4.0,0.392
+70,2020-05-09,The Rolling Stones,Living In A Ghost Town,The Rolling,Living In A Ghost Town The Rolling,5RrrQhJKKKMJt3wB5n2N3t,0.0148,0.679,247011.0,0.697,0.0119,4.0,0.124,-5.369,0.0,0.0454,110.558,4.0,0.776
+71,2020-05-16,Idir,A Vava Inouva,Idir,A Vava Inouva Idir,06eEMrvlkBmLLaezDSDcEl,0.964,0.716,266760.0,0.21,0.0123,4.0,0.0837,-19.576,0.0,0.0395,111.908,4.0,0.432
+72,2020-05-23,Ariana Grande & Justin Bieber,Stuck With U,Ariana Grande,Stuck With U Ariana Grande,4HBZA5flZLE435QTztThqH,0.223,0.597,228482.0,0.45,0.0,8.0,0.382,-6.658,1.0,0.0418,178.765,3.0,0.537
+73,2020-05-30,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+74,2020-06-06,Lady Gaga & Ariana Grande,Rain On Me,Lady Gaga,Rain On Me Lady Gaga,24ySl2hOPGCDcxBxFIqWBu,0.021,0.672,182200.0,0.855,0.0,9.0,0.323,-3.764,1.0,0.0397,123.056,4.0,0.646
+75,2020-06-13,Indochine,Nos Celebrations,Indochine,Nos Celebrations Indochine,50TIALxJW2k7XntjaVzrt1,0.00082,0.639,240200.0,0.852,0.00154,11.0,0.102,-7.819,1.0,0.0276,125.973,4.0,0.59
+76,2020-06-20,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+77,2020-06-27,6ix9ine & Nicki Minaj,Trollz,6ix9ine &,Trollz 6ix9ine &,3dVvWnj4D8JGkKvo6Hucso,0.0319,0.744,202667.0,0.422,0.00011,1.0,0.11,-8.946,1.0,0.294,180.006,4.0,0.493
+78,2020-07-04,Grand Corps Malade & Camille Lellouche,Mais Je T'Aime,Grand Corps,Mais Je T'Aime Grand Corps,2bCE9QTbZgZAZBPAahbJ6O,0.796,0.476,270000.0,0.412,9.04e-06,9.0,0.112,-10.529,0.0,0.131,179.783,3.0,0.209
+79,2020-07-11,Grand Corps Malade & Camille Lellouche,Mais Je T'Aime,Grand Corps,Mais Je T'Aime Grand Corps,2bCE9QTbZgZAZBPAahbJ6O,0.796,0.476,270000.0,0.412,9.04e-06,9.0,0.112,-10.529,0.0,0.131,179.783,3.0,0.209
+80,2020-07-18,Grand Corps Malade & Camille Lellouche,Mais Je T'Aime,Grand Corps,Mais Je T'Aime Grand Corps,2bCE9QTbZgZAZBPAahbJ6O,0.796,0.476,270000.0,0.412,9.04e-06,9.0,0.112,-10.529,0.0,0.131,179.783,3.0,0.209
+81,2020-07-25,Master KG  Burna Boy & Nomcebo Zikode,Jerusalem,Master KG,Jerusalem Master KG,4aX4pkZnzrqGDQ2S2XJsmQ,0.0301,0.837,328000.0,0.449,5.37e-05,1.0,0.0604,-7.019,1.0,0.0554,124.021,4.0,0.825
+82,2020-08-01,Master KG  Burna Boy & Nomcebo Zikode,Jerusalem,Master KG,Jerusalem Master KG,4aX4pkZnzrqGDQ2S2XJsmQ,0.0301,0.837,328000.0,0.449,5.37e-05,1.0,0.0604,-7.019,1.0,0.0554,124.021,4.0,0.825
+83,2020-08-08,Master KG  Burna Boy & Nomcebo Zikode,Jerusalem,Master KG,Jerusalem Master KG,4aX4pkZnzrqGDQ2S2XJsmQ,0.0301,0.837,328000.0,0.449,5.37e-05,1.0,0.0604,-7.019,1.0,0.0554,124.021,4.0,0.825
+84,2020-08-15,Master KG  Burna Boy & Nomcebo Zikode,Jerusalem,Master KG,Jerusalem Master KG,4aX4pkZnzrqGDQ2S2XJsmQ,0.0301,0.837,328000.0,0.449,5.37e-05,1.0,0.0604,-7.019,1.0,0.0554,124.021,4.0,0.825
+85,2020-08-22,Master KG  Burna Boy & Nomcebo Zikode,Jerusalem,Master KG,Jerusalem Master KG,4aX4pkZnzrqGDQ2S2XJsmQ,0.0301,0.837,328000.0,0.449,5.37e-05,1.0,0.0604,-7.019,1.0,0.0554,124.021,4.0,0.825
+86,2020-08-29,Master KG  Burna Boy & Nomcebo Zikode,Jerusalem,Master KG,Jerusalem Master KG,4aX4pkZnzrqGDQ2S2XJsmQ,0.0301,0.837,328000.0,0.449,5.37e-05,1.0,0.0604,-7.019,1.0,0.0554,124.021,4.0,0.825

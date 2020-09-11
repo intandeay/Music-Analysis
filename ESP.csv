@@ -1,0 +1,88 @@
+,Date,Artist,TrackName,aSearch,searcher,uri,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+0,2019-01-05,Lola Indigo & Mala Rodriguez,Mujer Bruja,Lola Indigo,Mujer Bruja Lola Indigo,48W0uYrcEGvD5UNI6KMC5l,0.0946,0.773,203774.0,0.917,0.000106,10.0,0.0885,-2.166,0.0,0.0629,105.964,4.0,0.763
+1,2019-01-12,Aitana,Vas A Quedarte,Aitana,Vas A Quedarte Aitana,6Xmbp5rxLA1GS0EfrUgjxc,0.795,0.394,226213.0,0.508,3.87e-06,7.0,0.0627,-3.522,1.0,0.0326,89.222,4.0,0.167
+2,2019-01-19,Aitana,Vas A Quedarte,Aitana,Vas A Quedarte Aitana,6Xmbp5rxLA1GS0EfrUgjxc,0.795,0.394,226213.0,0.508,3.87e-06,7.0,0.0627,-3.522,1.0,0.0326,89.222,4.0,0.167
+3,2019-01-26,Pablo Alboran,No Vaya A Ser,Pablo Alboran,No Vaya A Ser Pablo Alboran,6ZZOdrcqRZzTCwGlsy00SU,0.232,0.731,198053.0,0.687,2.33e-05,1.0,0.265,-7.399,0.0,0.0586,99.995,4.0,0.577
+4,2019-02-02,Ana Guerra & Juan Magan,Ni La Hora,Ana Guerra,Ni La Hora Ana Guerra,02n8UXIHX1T3nLQjLpdJMr,0.235,0.789,198407.0,0.789,0.0,0.0,0.179,-2.738,1.0,0.101,90.055,4.0,0.958
+5,2019-02-09,Luis Fonsi & Demi Lovato,Echame La Culpa,Luis Fonsi,Echame La Culpa Luis Fonsi,5E2ejBwR3WGxsIBhpBT6ic,0.0586,0.588,171320.0,0.915,0.0,0.0,0.132,-4.658,1.0,0.0806,192.114,4.0,0.692
+6,2019-02-16,Luis Fonsi & Demi Lovato,Echame La Culpa,Luis Fonsi,Echame La Culpa Luis Fonsi,5E2ejBwR3WGxsIBhpBT6ic,0.0586,0.588,171320.0,0.915,0.0,0.0,0.132,-4.658,1.0,0.0806,192.114,4.0,0.692
+7,2019-02-23,Maluma Nego do Borel,Corazon,Maluma Nego,Corazon Maluma Nego,5cepAtqnEQ6yVG6088zMMu,0.328,0.722,184720.0,0.738,1.47e-05,9.0,0.198,-6.073,0.0,0.247,198.075,4.0,0.748
+8,2019-03-02,Pablo Alboran,No Vaya A Ser,Pablo Alboran,No Vaya A Ser Pablo Alboran,6ZZOdrcqRZzTCwGlsy00SU,0.232,0.731,198053.0,0.687,2.33e-05,1.0,0.265,-7.399,0.0,0.0586,99.995,4.0,0.577
+9,2019-03-09,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+10,2019-03-16,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+11,2019-03-23,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+12,2019-03-30,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+13,2019-04-06,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+14,2019-04-13,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+15,2019-04-20,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+16,2019-04-27,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+17,2019-05-04,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+18,2019-05-11,The Beatles,All My Loving,The Beatles,All My Loving The Beatles,4joiWvli4qJVEW6qZV2i2J,0.207,0.416,127853.0,0.563,0.0,1.0,0.343,-8.724,0.0,0.0298,77.56,4.0,0.9
+19,2019-05-18,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+20,2019-05-25,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+21,2019-06-01,Luis Fonsi & Demi Lovato,Echame La Culpa,Luis Fonsi,Echame La Culpa Luis Fonsi,5E2ejBwR3WGxsIBhpBT6ic,0.0586,0.588,171320.0,0.915,0.0,0.0,0.132,-4.658,1.0,0.0806,192.114,4.0,0.692
+22,2019-06-08,The Beatles,Love Me Do,The Beatles,Love Me Do The Beatles,3VbGCXWRiouAq8VyMYN2MI,0.386,0.52,141693.0,0.829,6.2e-05,0.0,0.227,-6.228,1.0,0.0806,147.997,4.0,0.744
+23,2019-06-15,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+24,2019-06-22,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+25,2019-06-29,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+26,2019-07-06,Ed Sheeran & Justin Bieber,I Don't Care,Ed Sheeran,I Don't Care Ed Sheeran,3HVWdVOQ0ZA45FuZGSfvns,0.0912,0.798,219947.0,0.675,0.0,6.0,0.0894,-5.041,1.0,0.0442,101.956,4.0,0.842
+27,2019-07-13,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+28,2019-07-20,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+29,2019-07-27,Aitana,Telefono,Aitana,Telefono Aitana,4GHBUyrcoDwLXlkXfkc8sW,0.0844,0.667,162093.0,0.86,8.64e-05,11.0,0.102,-4.072,0.0,0.109,172.168,4.0,0.579
+30,2019-08-03,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+31,2019-08-10,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+32,2019-08-17,Amaia,Quedar En Nuestra Mente,Amaia,Quedar En Nuestra Mente Amaia,3nhNNOCDKgviYsOWo42ZXA,0.302,0.574,231032.0,0.706,0.0,2.0,0.101,-5.059,1.0,0.0334,130.078,4.0,0.293
+33,2019-08-24,Pedro Capo Farruko,Calma,Pedro Capo,Calma Pedro Capo,5iwz1NiezX7WWjnCgY5TH4,0.323,0.826,238200.0,0.773,0.0,11.0,0.143,-4.218,0.0,0.0524,126.899,4.0,0.761
+34,2019-08-31,Jack Johnson,Imagine,Jack Johnson,Imagine Jack Johnson,3piY5aMfwEEmXMV6I9kpoi,0.937,0.554,219080.0,0.179,0.024,6.0,0.107,-18.254,1.0,0.0362,141.946,4.0,0.374
+35,2019-09-07,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+36,2019-09-14,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+37,2019-09-21,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+38,2019-09-28,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+39,2019-10-05,Aitana,Telefono,Aitana,Telefono Aitana,4GHBUyrcoDwLXlkXfkc8sW,0.0844,0.667,162093.0,0.86,8.64e-05,11.0,0.102,-4.072,0.0,0.109,172.168,4.0,0.579
+40,2019-10-12,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+41,2019-10-19,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+42,2019-10-26,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+43,2019-11-02,Aitana,Telefono,Aitana,Telefono Aitana,4GHBUyrcoDwLXlkXfkc8sW,0.0844,0.667,162093.0,0.86,8.64e-05,11.0,0.102,-4.072,0.0,0.109,172.168,4.0,0.579
+44,2019-11-09,Rosa Lopez,Vacio,Rosa Lopez,Vacio Rosa Lopez,1XTk4kpPsnJ0VAgmoL08uF,0.766,0.377,223824.0,0.503,0.0,0.0,0.135,-9.987,1.0,0.0961,90.609,3.0,0.23
+45,2019-11-16,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+46,2019-11-23,Aitana,Telefono,Aitana,Telefono Aitana,4GHBUyrcoDwLXlkXfkc8sW,0.0844,0.667,162093.0,0.86,8.64e-05,11.0,0.102,-4.072,0.0,0.109,172.168,4.0,0.579
+47,2019-11-30,Adrian Leaper / Orquesta Filarmonica de Gran Canaria,Ravel: Bolero,Adrian Leaper,Ravel: Bolero Adrian Leaper,28P88X7QRC2JFA60vWatJL,0.852,0.169,816333.0,0.145,0.812,0.0,0.0753,-18.232,1.0,0.0379,79.236,3.0,0.352
+48,2019-12-07,Dani Martin,La Mentira,Dani Martin,La Mentira Dani Martin,21by4HhbV3w4uUNrotR02z,0.0136,0.627,177240.0,0.803,0.0,6.0,0.0734,-2.957,0.0,0.137,169.959,4.0,0.901
+49,2019-12-14,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+50,2019-12-21,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+51,2019-12-28,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+52,2020-01-04,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+53,2020-01-11,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+54,2020-01-18,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+55,2020-01-25,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+56,2020-02-01,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+57,2020-02-08,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+58,2020-02-15,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+59,2020-02-22,Carlos Baute Con Marta Sanchez,Colgando En Tus Manos,Carlos Baute,Colgando En Tus Manos Carlos Baute,3UI9I3e1g1y5T3SMfdgfGO,0.535,0.836,230280.0,0.637,0.0,6.0,0.129,-4.803,1.0,0.0367,120.025,4.0,0.875
+60,2020-02-29,Aitana,Telefono,Aitana,Telefono Aitana,4GHBUyrcoDwLXlkXfkc8sW,0.0844,0.667,162093.0,0.86,8.64e-05,11.0,0.102,-4.072,0.0,0.109,172.168,4.0,0.579
+61,2020-03-07,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+62,2020-03-14,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+63,2020-03-21,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+64,2020-03-28,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+65,2020-04-04,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+66,2020-04-11,Vanesa Martin,Un Canto A La Vida,Vanesa Martin,Un Canto A La Vida Vanesa Martin,0KtBbO1aL5QEbPT6NpIgZ7,0.227,0.47,201139.0,0.689,0.0,0.0,0.138,-3.484,0.0,0.0296,155.904,4.0,0.291
+67,2020-04-18,Aitana,Telefono,Aitana,Telefono Aitana,4GHBUyrcoDwLXlkXfkc8sW,0.0844,0.667,162093.0,0.86,8.64e-05,11.0,0.102,-4.072,0.0,0.109,172.168,4.0,0.579
+68,2020-04-25,Aitana,Telefono,Aitana,Telefono Aitana,4GHBUyrcoDwLXlkXfkc8sW,0.0844,0.667,162093.0,0.86,8.64e-05,11.0,0.102,-4.072,0.0,0.109,172.168,4.0,0.579
+69,2020-05-02,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+70,2020-05-09,RESISTIRE MEXICO,Resistire,RESISTIRE MEXICO,Resistire RESISTIRE MEXICO,0XFQb7pNfT90A7fRxjMWgz,0.0071,0.45,252443.0,0.878,0.0,9.0,0.0908,-4.592,1.0,0.0827,199.844,4.0,0.744
+71,2020-05-16,Becky G + Natti Natasha,Sin Pijama,Becky G,Sin Pijama Becky G,2ijef6ni2amuunRoKTlgww,0.354,0.791,188560.0,0.745,2.93e-05,11.0,0.104,-3.695,0.0,0.0464,94.014,4.0,0.82
+72,2020-05-23,"Vetusta Morla  Alice Wonder, Andres Suarez, Carlotta Cosials, Christina Rosenvince, Dani Martin, Depedro, Eva Amaral, Ismel Serriano, Ivan Ferreiro, Kase O, Leiva, Luz Casal, Maika Makovski, Marwan, Nacho Vegas, Nina de Juan, Rozalen ,Sabina, Santi Blames & Xoel Lopez",Los Abrazos Prohibidos,Vetusta Morla,Los Abrazos Prohibidos Vetusta Morla,3qKzESguQJ7GpqWf6K2hOE,0.0552,0.491,222072.0,0.562,7.51e-05,6.0,0.249,-6.636,0.0,0.0611,153.876,4.0,0.261
+73,2020-05-30,Aitana & Reik,Enemigos,Aitana &,Enemigos Aitana &,5XUtUnUsJ1PAkLZIiCfUD5,0.0502,0.713,197394.0,0.79,0.0,1.0,0.172,-3.609,0.0,0.146,89.997,4.0,0.702
+74,2020-06-06,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+75,2020-06-13,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+76,2020-06-20,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+77,2020-06-27,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+78,2020-07-04,Agoney,MAS,Agoney,MAS Agoney,10NIE9uirB9gTmnVwSAMje,0.122,0.51,211724.0,0.503,0.0,1.0,0.17,-8.325,1.0,0.0352,86.909,4.0,0.248
+79,2020-07-11,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+80,2020-07-18,Pablo Alboran,Prometo,Pablo Alboran,Prometo Pablo Alboran,4Wc0FFBjYDVNJ3Zx3fck6s,0.454,0.4,307107.0,0.564,0.0,9.0,0.314,-8.971,1.0,0.12,91.356,4.0,0.327
+81,2020-07-25,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+82,2020-08-01,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+83,2020-08-08,Cepeda,Si Tu Existieras,Cepeda,Si Tu Existieras Cepeda,2MIuZxR2C5DvQhNWdcc3ob,0.262,0.291,237403.0,0.549,0.0,9.0,0.102,-6.636,1.0,0.0338,71.258,4.0,0.182
+84,2020-08-15,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+85,2020-08-22,Gene Kelly & MGM Studio Orchestra,Singing In The Rain (Cantando Bajo La Lluvia),Gene Kelly,Singing In The Rain (Cantando Bajo La Lluvia) Gene Kelly,406wKTPKAWllMLOS3YHA57,0.00396,0.375,178173.0,0.627,0.943,5.0,0.255,-3.196,1.0,0.0362,133.975,4.0,0.497
+86,2020-08-29,The Harmony Group,Laxed,The Harmony,Laxed The Harmony,3BJiF37kmX4HCfYSO7qBnQ,0.0577,0.736,201990.0,0.62,0.692,0.0,0.318,-8.481,0.0,0.11,150.026,4.0,0.959

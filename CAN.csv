@@ -1,0 +1,88 @@
+,Date,Artist,TrackName,aSearch,searcher,uri,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+0,2019-01-05,Mariah Carey,All I Want For Christmas Is You,Mariah Carey,All I Want For Christmas Is You Mariah Carey,4I5Hn34v6foGP3ta9Xx0rN,0.000441,0.695,401680.0,0.652,5.66e-06,11.0,0.0667,-7.828,0.0,0.0751,128.024,4.0,0.744
+1,2019-01-12,Ariana Grande,"Thank U, Next",Ariana Grande,"Thank U, Next Ariana Grande",3e9HZxeyfWwjeyPAMmWSSQ,0.229,0.717,207320.0,0.653,0.0,1.0,0.101,-5.634,1.0,0.0658,106.966,4.0,0.412
+2,2019-01-19,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone,Sunflower (Spider-Man: Into The Spider-Verse) Post Malone,3KkXRkHbMCARz0aVfEt68P,0.556,0.76,158040.0,0.479,0.0,2.0,0.0703,-5.574,1.0,0.0466,89.911,4.0,0.913
+3,2019-01-26,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone,Sunflower (Spider-Man: Into The Spider-Verse) Post Malone,3KkXRkHbMCARz0aVfEt68P,0.556,0.76,158040.0,0.479,0.0,2.0,0.0703,-5.574,1.0,0.0466,89.911,4.0,0.913
+4,2019-02-02,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+5,2019-02-09,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+6,2019-02-16,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+7,2019-02-23,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+8,2019-03-02,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+9,2019-03-09,Lady Gaga & Bradley Cooper,Shallow,Lady Gaga,Shallow Lady Gaga,2VxeLyX666F8uXCJ0dZF8B,0.371,0.572,215733.0,0.385,0.0,7.0,0.231,-6.362,1.0,0.0308,95.799,4.0,0.323
+10,2019-03-16,Jonas Brothers,Sucker,Jonas Brothers,Sucker Jonas Brothers,22vgEDb5hykfaTwLuskFGD,0.0427,0.842,181027.0,0.734,0.0,1.0,0.106,-5.065,0.0,0.0588,137.958,4.0,0.952
+11,2019-03-23,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+12,2019-03-30,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+13,2019-04-06,Ariana Grande,7 Rings,Ariana Grande,7 Rings Ariana Grande,6ocbgoVGwYJhOv1GgI9NsF,0.592,0.778,178627.0,0.317,0.0,1.0,0.0881,-10.732,0.0,0.334,140.048,4.0,0.327
+14,2019-04-13,Billie Eilish,Bad Guy,Billie Eilish,Bad Guy Billie Eilish,2Fxmhks0bxGSBdJ92vM42m,0.328,0.701,194088.0,0.425,0.13,7.0,0.1,-10.965,1.0,0.375,135.128,4.0,0.562
+15,2019-04-20,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+16,2019-04-27,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+17,2019-05-04,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+18,2019-05-11,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+19,2019-05-18,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+20,2019-05-25,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+21,2019-06-01,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+22,2019-06-08,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+23,2019-06-15,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+24,2019-06-22,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+25,2019-06-29,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+26,2019-07-06,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+27,2019-07-13,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+28,2019-07-20,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+29,2019-07-27,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+30,2019-08-03,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+31,2019-08-10,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+32,2019-08-17,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+33,2019-08-24,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+34,2019-08-31,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+35,2019-09-07,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+36,2019-09-14,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+37,2019-09-21,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+38,2019-09-28,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+39,2019-10-05,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+40,2019-10-12,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+41,2019-10-19,Travis Scott,HIGHEST IN THE ROOM,Travis Scott,HIGHEST IN THE ROOM Travis Scott,3eekarcy7kvN4yt5ZFzltW,0.0546,0.598,175721.0,0.427,5.83e-06,7.0,0.21,-8.764,0.0,0.0317,76.469,4.0,0.0605
+42,2019-10-26,Lewis Capaldi,Someone You Loved,Lewis Capaldi,Someone You Loved Lewis Capaldi,7qEHsqek33rTcFNT9PFqLf,0.751,0.501,182161.0,0.405,0.0,1.0,0.105,-5.679,1.0,0.0319,109.891,4.0,0.446
+43,2019-11-02,Lewis Capaldi,Someone You Loved,Lewis Capaldi,Someone You Loved Lewis Capaldi,7qEHsqek33rTcFNT9PFqLf,0.751,0.501,182161.0,0.405,0.0,1.0,0.105,-5.679,1.0,0.0319,109.891,4.0,0.446
+44,2019-11-09,Selena Gomez,Lose You To Love Me,Selena Gomez,Lose You To Love Me Selena Gomez,4l0Mvzj72xxOpRrp6h8nHi,0.556,0.488,206459.0,0.343,0.0,4.0,0.21,-8.985,1.0,0.0436,102.819,4.0,0.0978
+45,2019-11-16,Lewis Capaldi,Someone You Loved,Lewis Capaldi,Someone You Loved Lewis Capaldi,7qEHsqek33rTcFNT9PFqLf,0.751,0.501,182161.0,0.405,0.0,1.0,0.105,-5.679,1.0,0.0319,109.891,4.0,0.446
+46,2019-11-23,Lewis Capaldi,Someone You Loved,Lewis Capaldi,Someone You Loved Lewis Capaldi,7qEHsqek33rTcFNT9PFqLf,0.751,0.501,182161.0,0.405,0.0,1.0,0.105,-5.679,1.0,0.0319,109.891,4.0,0.446
+47,2019-11-30,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+48,2019-12-07,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+49,2019-12-14,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+50,2019-12-21,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+51,2019-12-28,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+52,2020-01-04,Mariah Carey,All I Want For Christmas Is You,Mariah Carey,All I Want For Christmas Is You Mariah Carey,4I5Hn34v6foGP3ta9Xx0rN,0.000441,0.695,401680.0,0.652,5.66e-06,11.0,0.0667,-7.828,0.0,0.0751,128.024,4.0,0.744
+53,2020-01-11,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+54,2020-01-18,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+55,2020-01-25,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+56,2020-02-01,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+57,2020-02-08,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+58,2020-02-15,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+59,2020-02-22,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+60,2020-02-29,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+61,2020-03-07,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+62,2020-03-14,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+63,2020-03-21,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+64,2020-03-28,Roddy Ricch,The Box,Roddy Ricch,The Box Roddy Ricch,0nbXyq5TXYPCO7pr3N8S4I,0.104,0.896,196653.0,0.586,0.0,10.0,0.79,-6.687,0.0,0.0559,116.971,4.0,0.642
+65,2020-04-04,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+66,2020-04-11,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+67,2020-04-18,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+68,2020-04-25,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+69,2020-05-02,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+70,2020-05-09,"THE SCOTTS, Travis Scott & Kid Cudi",The Scotts,"THE SCOTTS,","The Scotts THE SCOTTS,",39Yp9wwQiSRIDOvrVg7mbk,0.233,0.716,165978.0,0.537,0.0,0.0,0.157,-7.648,0.0,0.0514,129.979,4.0,0.28
+71,2020-05-16,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+72,2020-05-23,Ariana Grande & Justin Bieber,Stuck With U,Ariana Grande,Stuck With U Ariana Grande,4HBZA5flZLE435QTztThqH,0.223,0.597,228482.0,0.45,0.0,8.0,0.382,-6.658,1.0,0.0418,178.765,3.0,0.537
+73,2020-05-30,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+74,2020-06-06,Lady Gaga & Ariana Grande,Rain On Me,Lady Gaga,Rain On Me Lady Gaga,24ySl2hOPGCDcxBxFIqWBu,0.021,0.672,182200.0,0.855,0.0,9.0,0.323,-3.764,1.0,0.0397,123.056,4.0,0.646
+75,2020-06-13,SAINt JHN,Roses,SAINt JHN,Roses SAINt JHN,2Wo6QQD1KMDWeFkkjLqwx5,0.0149,0.785,176219.0,0.721,0.00432,8.0,0.285,-5.457,1.0,0.0506,121.962,4.0,0.894
+76,2020-06-20,SAINt JHN,Roses,SAINt JHN,Roses SAINt JHN,2Wo6QQD1KMDWeFkkjLqwx5,0.0149,0.785,176219.0,0.721,0.00432,8.0,0.285,-5.457,1.0,0.0506,121.962,4.0,0.894
+77,2020-06-27,SAINt JHN,Roses,SAINt JHN,Roses SAINt JHN,2Wo6QQD1KMDWeFkkjLqwx5,0.0149,0.785,176219.0,0.721,0.00432,8.0,0.285,-5.457,1.0,0.0506,121.962,4.0,0.894
+78,2020-07-04,SAINt JHN,Roses,SAINt JHN,Roses SAINt JHN,2Wo6QQD1KMDWeFkkjLqwx5,0.0149,0.785,176219.0,0.721,0.00432,8.0,0.285,-5.457,1.0,0.0506,121.962,4.0,0.894
+79,2020-07-11,SAINt JHN,Roses,SAINt JHN,Roses SAINt JHN,2Wo6QQD1KMDWeFkkjLqwx5,0.0149,0.785,176219.0,0.721,0.00432,8.0,0.285,-5.457,1.0,0.0506,121.962,4.0,0.894
+80,2020-07-18,DaBaby  Roddy Ricch,Rockstar,DaBaby ,Rockstar DaBaby ,7ytR5pFWmSjzHJIeQkgog4,0.247,0.746,181733.0,0.69,0.0,11.0,0.101,-7.956,1.0,0.164,89.977,4.0,0.497
+81,2020-07-25,SAINt JHN,Roses,SAINt JHN,Roses SAINt JHN,2Wo6QQD1KMDWeFkkjLqwx5,0.0149,0.785,176219.0,0.721,0.00432,8.0,0.285,-5.457,1.0,0.0506,121.962,4.0,0.894
+82,2020-08-01,DJ Khaled  Drake,Popstar,DJ Khaled,Popstar DJ Khaled,6EDO9iiTtwNv6waLwa1UUq,0.057,0.8,200221.0,0.56,0.0,5.0,0.134,-4.818,0.0,0.261,163.071,4.0,0.45
+83,2020-08-08,SAINt JHN,Roses,SAINt JHN,Roses SAINt JHN,2Wo6QQD1KMDWeFkkjLqwx5,0.0149,0.785,176219.0,0.721,0.00432,8.0,0.285,-5.457,1.0,0.0506,121.962,4.0,0.894
+84,2020-08-15,Jawsh 685 Jason Derulo,Savage Love (Laxed - Siren Beat),Jawsh 685,Savage Love (Laxed - Siren Beat) Jawsh 685,1xQ6trAsedVPCdbtDAmk0c,0.234,0.767,171375.0,0.481,0.0,0.0,0.269,-8.52,0.0,0.0803,150.076,4.0,0.761
+85,2020-08-22,Cardi B  Megan Thee Stallion,WAP,Cardi B,WAP Cardi B,4Oun2ylbjFKMPTiaSbbCih,0.0194,0.935,187541.0,0.454,0.0,1.0,0.0824,-7.509,1.0,0.375,133.073,4.0,0.357
+86,2020-08-29,Drake  Lil Durk,Laugh Now Cry Later,Drake ,Laugh Now Cry Later Drake ,2SAqBLGA283SUiwJ3xOUVI,0.244,0.761,261493.0,0.518,3.47e-05,0.0,0.107,-8.871,1.0,0.134,133.976,4.0,0.522

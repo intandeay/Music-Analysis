@@ -1,0 +1,88 @@
+,Date,Artist,TrackName,aSearch,searcher,uri,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+0,2019-01-05,Capital Bra,Benzema,Capital Bra,Benzema Capital Bra,0gyO8zq1Hw5GTQ33EXcc40,0.543,0.785,159152.0,0.699,0.0,10.0,0.12,-6.691,0.0,0.359,100.908,4.0,0.286
+1,2019-01-12,Ava Max,Sweet But Psycho,Ava Max,Sweet But Psycho Ava Max,25sgk305KZfyuqVBQIahim,0.0691,0.719,187436.0,0.704,0.0,1.0,0.166,-4.724,1.0,0.0476,133.002,4.0,0.628
+2,2019-01-19,Ava Max,Sweet But Psycho,Ava Max,Sweet But Psycho Ava Max,25sgk305KZfyuqVBQIahim,0.0691,0.719,187436.0,0.704,0.0,1.0,0.166,-4.724,1.0,0.0476,133.002,4.0,0.628
+3,2019-01-26,Shindy,DODI,Shindy,DODI Shindy,6yPPTQUNgP9OzIxbzfJtsq,0.00936,0.829,182878.0,0.574,1.64e-05,10.0,0.123,-6.96,0.0,0.0541,146.951,4.0,0.386
+4,2019-02-02,MERO,Hobby Hobby,MERO,Hobby Hobby MERO,0dmrz4V5kiezQAqQ3VqGob,0.398,0.743,153560.0,0.742,0.0,5.0,0.136,-6.457,0.0,0.181,163.979,4.0,0.851
+5,2019-02-09,Capital Bra,Prinzessa,Capital Bra,Prinzessa Capital Bra,0Tq0EhQpVeQJwV3E3P5Jti,0.513,0.736,178000.0,0.585,2.02e-05,7.0,0.108,-6.769,1.0,0.12,100.609,4.0,0.28
+6,2019-02-16,Capital Bra,Prinzessa,Capital Bra,Prinzessa Capital Bra,0Tq0EhQpVeQJwV3E3P5Jti,0.513,0.736,178000.0,0.585,2.02e-05,7.0,0.108,-6.769,1.0,0.12,100.609,4.0,0.28
+7,2019-02-23,Eno  MERO,Ferrari,Eno ,Ferrari Eno ,4AgK0CwpwcekXVdAoYB2VO,0.387,0.73,172321.0,0.725,0.0,10.0,0.153,-4.889,0.0,0.318,79.648,4.0,0.625
+8,2019-03-02,KC Rebell  Summer Cem & Capital Bra,DNA,KC Rebell,DNA KC Rebell,4BD9yUEFI07WaDJ381DDMq,0.0519,0.828,253346.0,0.686,2.23e-06,2.0,0.11,-5.242,1.0,0.264,156.033,4.0,0.544
+9,2019-03-09,Shirin David,Gib Ihm,Shirin David,Gib Ihm Shirin David,1rD0dknJwavElUpZ3AUyiO,0.249,0.928,164293.0,0.414,1.85e-05,10.0,0.0842,-10.624,0.0,0.314,97.986,4.0,0.543
+10,2019-03-16,Shirin David,Gib Ihm,Shirin David,Gib Ihm Shirin David,1rD0dknJwavElUpZ3AUyiO,0.249,0.928,164293.0,0.414,1.85e-05,10.0,0.0842,-10.624,0.0,0.314,97.986,4.0,0.543
+11,2019-03-23,MERO,Wolke 10,MERO,Wolke 10 MERO,200cTjC6si5Xz9af2QeHi2,0.0662,0.77,172827.0,0.797,3.81e-06,10.0,0.0858,-4.985,0.0,0.0693,100.003,4.0,0.393
+12,2019-03-30,Capital Bra Samra,Wir Ticken,Capital Bra,Wir Ticken Capital Bra,1ag6DENIjtcmRFCx5JjUng,0.275,0.633,203067.0,0.691,0.0,7.0,0.17,-4.952,0.0,0.419,180.051,4.0,0.823
+13,2019-04-06,Capital Bra,Cherry Lady,Capital Bra,Cherry Lady Capital Bra,4j5WelE5mkf9A2jmts729h,0.877,0.838,135597.0,0.549,0.000964,9.0,0.115,-7.145,0.0,0.0755,114.445,4.0,0.654
+14,2019-04-13,Rammstein,Deutschland,Rammstein,Deutschland Rammstein,2bPGTMB5sFfFYQ2YvSmup0,5.54e-05,0.521,322340.0,0.895,0.349,7.0,0.0985,-5.242,1.0,0.0442,120.117,4.0,0.237
+15,2019-04-20,Samra,Harami,Samra,Harami Samra,5xIODxqlpUnRVA9ewZUCug,0.236,0.645,182522.0,0.774,0.0,6.0,0.128,-4.839,0.0,0.344,86.692,4.0,0.635
+16,2019-04-27,Rammstein,Deutschland,Rammstein,Deutschland Rammstein,2bPGTMB5sFfFYQ2YvSmup0,5.54e-05,0.521,322340.0,0.895,0.349,7.0,0.0985,-5.242,1.0,0.0442,120.117,4.0,0.237
+17,2019-05-04,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+18,2019-05-11,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+19,2019-05-18,Juju  Henning May,Vermissen,Juju ,Vermissen Juju ,07f2b3CTdgKKlhv0mqUksz,0.169,0.717,161882.0,0.668,0.0,9.0,0.0673,-5.003,0.0,0.0554,89.045,4.0,0.464
+20,2019-05-25,Juju  Henning May,Vermissen,Juju ,Vermissen Juju ,07f2b3CTdgKKlhv0mqUksz,0.169,0.717,161882.0,0.668,0.0,9.0,0.0673,-5.003,0.0,0.0554,89.045,4.0,0.464
+21,2019-06-01,Samra & Capital Bra,Wieder Lila,Samra &,Wieder Lila Samra &,2kkcJ8tSDV42LdWcPjy6We,0.435,0.656,188057.0,0.756,0.0,2.0,0.0934,-4.026,0.0,0.3,168.031,4.0,0.645
+22,2019-06-08,Samra & Capital Bra,Wieder Lila,Samra &,Wieder Lila Samra &,2kkcJ8tSDV42LdWcPjy6We,0.435,0.656,188057.0,0.756,0.0,2.0,0.0934,-4.026,0.0,0.3,168.031,4.0,0.645
+23,2019-06-15,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+24,2019-06-22,Lil Nas  Billy Ray Cyrus,Old Town Road,Lil Nas,Old Town Road Lil Nas,2YpeDb67231RjR0MgVLzsG,0.0533,0.878,157067.0,0.619,0.0,6.0,0.113,-5.56,1.0,0.102,136.041,4.0,0.639
+25,2019-06-29,"Kalazh44, Nimo, Luciano, Samra & Capital Bra",Royal Rumble,"Kalazh44, Nimo,","Royal Rumble Kalazh44, Nimo,",4Rif4wqdvzy84dhP1apC4Y,0.105,0.591,245000.0,0.888,2.63e-05,1.0,0.0928,-3.161,1.0,0.274,126.881,5.0,0.574
+26,2019-07-06,Capital Bra Samra,Tilidin,Capital Bra,Tilidin Capital Bra,1VEMUkGFio5uURvN8x1DZJ,0.407,0.631,172036.0,0.673,0.0,6.0,0.154,-4.892,0.0,0.384,83.504,4.0,0.721
+27,2019-07-13,Capital Bra Samra,Tilidin,Capital Bra,Tilidin Capital Bra,1VEMUkGFio5uURvN8x1DZJ,0.407,0.631,172036.0,0.673,0.0,6.0,0.154,-4.892,0.0,0.384,83.504,4.0,0.721
+28,2019-07-20,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+29,2019-07-27,Samra Capital Bra,Zombie,Samra Capital,Zombie Samra Capital,6fDC5DIa4bt6NbPZWR1yxM,0.218,0.565,176535.0,0.604,0.0,2.0,0.104,-5.764,0.0,0.13,109.085,4.0,0.323
+30,2019-08-03,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+31,2019-08-10,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+32,2019-08-17,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+33,2019-08-24,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+34,2019-08-31,Shawn Mendes & Camila Cabello,Senorita,Shawn Mendes,Senorita Shawn Mendes,0TK2YIli7K1leLovkQiNik,0.037,0.759,190960.0,0.54,0.0,9.0,0.0945,-6.039,0.0,0.0287,116.947,4.0,0.75
+35,2019-09-07,Samra & Capital Bra,Nummer 1,Samra &,Nummer 1 Samra &,3drwaFqLSEjqzjNRbjap0R,0.542,0.833,155000.0,0.585,7.01e-06,6.0,0.0632,-6.252,0.0,0.223,96.016,4.0,0.663
+36,2019-09-14,Apache 207,Roller,Apache 207,Roller Apache 207,6hw1Sy9wZ8UCxYGdpKrU6M,0.0256,0.941,157093.0,0.758,0.00258,10.0,0.193,-6.47,0.0,0.17,128.017,4.0,0.683
+37,2019-09-21,Loredana  MERO,Kein Plan,Loredana ,Kein Plan Loredana ,1skUhc3JS3jLCfugI3gm41,0.0689,0.878,155018.0,0.699,0.00219,0.0,0.0753,-5.035,0.0,0.0464,102.01,4.0,0.78
+38,2019-09-28,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+39,2019-10-05,"Samra, Capital Bra & Lea",110,"Samra, Capital","110 Samra, Capital",67ojvEGRPAUCOohuMPqoRC,0.533,0.48,194534.0,0.749,0.0,1.0,0.0997,-5.057,0.0,0.432,179.056,4.0,0.419
+40,2019-10-12,"Samra, Capital Bra & Lea",110,"Samra, Capital","110 Samra, Capital",67ojvEGRPAUCOohuMPqoRC,0.533,0.48,194534.0,0.749,0.0,1.0,0.0997,-5.057,0.0,0.432,179.056,4.0,0.419
+41,2019-10-19,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+42,2019-10-26,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+43,2019-11-02,Apache 207,Wieso Tust Du Dir Das An?,Apache 207,Wieso Tust Du Dir Das An? Apache 207,6dNB3XdAzx7kTf5wa8Rg89,0.296,0.857,176067.0,0.473,0.474,6.0,0.121,-6.962,0.0,0.0549,133.966,4.0,0.461
+44,2019-11-09,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+45,2019-11-16,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+46,2019-11-23,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+47,2019-11-30,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+48,2019-12-07,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+49,2019-12-14,Capital Bra,Der Bratan Bleibt Der Gleiche,Capital Bra,Der Bratan Bleibt Der Gleiche Capital Bra,2M39v73rNJmAXUXIW0oagP,0.126,0.612,192147.0,0.704,0.0,0.0,0.569,-4.147,0.0,0.372,96.015,4.0,0.672
+50,2019-12-21,Nimo & Hava,KEIN SCHLAF,Nimo &,KEIN SCHLAF Nimo &,1B89LtaW92jj4AqT7OZ0Fj,0.294,0.606,200493.0,0.715,0.000133,11.0,0.124,-5.608,1.0,0.173,174.049,4.0,0.393
+51,2019-12-28,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+52,2020-01-04,Mariah Carey,All I Want For Christmas Is You,Mariah Carey,All I Want For Christmas Is You Mariah Carey,4I5Hn34v6foGP3ta9Xx0rN,0.000441,0.695,401680.0,0.652,5.66e-06,11.0,0.0667,-7.828,0.0,0.0751,128.024,4.0,0.744
+53,2020-01-11,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+54,2020-01-18,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+55,2020-01-25,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+56,2020-02-01,Juju Loredana,Kein Wort,Juju Loredana,Kein Wort Juju Loredana,1hoLUVBx0ixX3kn0EX0P5n,0.462,0.746,162094.0,0.592,1.17e-05,6.0,0.187,-6.861,0.0,0.0914,160.065,4.0,0.629
+57,2020-02-08,Juju Loredana,Kein Wort,Juju Loredana,Kein Wort Juju Loredana,1hoLUVBx0ixX3kn0EX0P5n,0.462,0.746,162094.0,0.592,1.17e-05,6.0,0.187,-6.861,0.0,0.0914,160.065,4.0,0.629
+58,2020-02-15,Joker Bra & VIZE,Baby,Joker Bra,Baby Joker Bra,1V7JaMp11LKGwKiVmSetf0,0.166,0.771,148125.0,0.921,0.000211,1.0,0.119,-4.228,0.0,0.109,128.021,4.0,0.56
+59,2020-02-22,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+60,2020-02-29,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+61,2020-03-07,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+62,2020-03-14,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+63,2020-03-21,Loredana  Rymez,Angst,Loredana ,Angst Loredana ,3R3rQ7FbTJdsi5She10YvI,0.0284,0.833,176097.0,0.677,0.0,2.0,0.0502,-5.537,1.0,0.239,100.073,4.0,0.558
+64,2020-03-28,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+65,2020-04-04,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+66,2020-04-11,Loredana Zuna,Du Bist Mein,Loredana Zuna,Du Bist Mein Loredana Zuna,719aY5gAzJbx2PHjyalZQu,0.138,0.761,160357.0,0.556,0.000175,1.0,0.0976,-6.943,1.0,0.364,187.81,4.0,0.521
+67,2020-04-18,Ramon Roselly,Eine Nacht,Ramon Roselly,Eine Nacht Ramon Roselly,6bSsh9qMe9tnJLG9GW7Wg6,0.0599,0.65,211440.0,0.861,0.0,2.0,0.29,-3.578,1.0,0.0382,116.041,4.0,0.643
+68,2020-04-25,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+69,2020-05-02,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+70,2020-05-09,Shirin David,90-60-111,Shirin David,90-60-111 Shirin David,3ZdDYeaZzeYnrP4crgXzPk,0.103,0.8,141387.0,0.628,0.0,2.0,0.391,-6.615,1.0,0.285,143.979,4.0,0.745
+71,2020-05-16,Capital Bra Loredana,Nicht Verdient,Capital Bra,Nicht Verdient Capital Bra,7v8OynJxOxHoeS5C2UA9Y7,0.381,0.719,176953.0,0.65,0.0,11.0,0.167,-7.274,0.0,0.232,77.981,4.0,0.488
+72,2020-05-23,Apache 207,Fame,Apache 207,Fame Apache 207,0QjjaCaXE45mvhCnV3C0TA,0.185,0.813,173933.0,0.659,0.0,1.0,0.0981,-7.993,0.0,0.0967,129.965,4.0,0.507
+73,2020-05-30,Apache 207,Fame,Apache 207,Fame Apache 207,0QjjaCaXE45mvhCnV3C0TA,0.185,0.813,173933.0,0.659,0.0,1.0,0.0981,-7.993,0.0,0.0967,129.965,4.0,0.507
+74,2020-06-06,Bonez MC,Roadrunner,Bonez MC,Roadrunner Bonez MC,0BwO44CBPFWxAIO5ZbPf3N,0.128,0.795,149028.0,0.607,0.19,7.0,0.111,-9.04,1.0,0.23,99.012,4.0,0.25
+75,2020-06-13,AK Ausserkontrolle & Bonez MC,In Meinem Benz,AK Ausserkontrolle,In Meinem Benz AK Ausserkontrolle,2TQltFfm834XiKKFvld3CZ,0.000127,0.521,198137.0,0.762,0.326,7.0,0.121,-11.712,1.0,0.0327,145.054,4.0,0.536
+76,2020-06-20,Apache 207,Boot,Apache 207,Boot Apache 207,0rqY8g1Y1zaA4YwU6vhBQg,0.0665,0.534,193017.0,0.565,0.0035,1.0,0.111,-7.536,0.0,0.295,194.032,4.0,0.496
+77,2020-06-27,Ufo361,Emotions,Ufo361,Emotions Ufo361,3yZCjDTxzZxx1kll1sRjGc,0.386,0.788,146028.0,0.491,0.00088,8.0,0.107,-9.884,1.0,0.109,98.543,4.0,0.271
+78,2020-07-04,Bonez MC,Big Body Benz,Bonez MC,Big Body Benz Bonez MC,2WOJ7D52Ng3myrKlEf4Azj,0.0731,0.884,148284.0,0.451,0.00573,9.0,0.268,-8.969,1.0,0.393,94.024,4.0,0.311
+79,2020-07-11,The Rolling Stones,Living In A Ghost Town,The Rolling,Living In A Ghost Town The Rolling,5RrrQhJKKKMJt3wB5n2N3t,0.0148,0.679,247011.0,0.697,0.0119,4.0,0.124,-5.369,0.0,0.0454,110.558,4.0,0.776
+80,2020-07-18,Apache 207,Blaulich,Apache 207,Blaulich Apache 207,2WRTnY0slmFgWcrmEr8dPj,0.069,0.79,196213.0,0.704,0.000658,10.0,0.113,-7.935,0.0,0.417,154.007,4.0,0.212
+81,2020-07-25,Apache 207,Blaulich,Apache 207,Blaulich Apache 207,2WRTnY0slmFgWcrmEr8dPj,0.069,0.79,196213.0,0.704,0.000658,10.0,0.113,-7.935,0.0,0.417,154.007,4.0,0.212
+82,2020-08-01,Apache 207,Blaulich,Apache 207,Blaulich Apache 207,2WRTnY0slmFgWcrmEr8dPj,0.069,0.79,196213.0,0.704,0.000658,10.0,0.113,-7.935,0.0,0.417,154.007,4.0,0.212
+83,2020-08-08,Apache 207,Unterwegs,Apache 207,Unterwegs Apache 207,7oJW8vNkosiWuKJtsq3mZs,0.376,0.706,172227.0,0.772,8.76e-06,3.0,0.0884,-6.765,0.0,0.189,99.186,4.0,0.304
+84,2020-08-15,Apache 207,Sie Ruft,Apache 207,Sie Ruft Apache 207,4CyCHkhRsDXUeP5K4Y3xjU,0.482,0.819,152013.0,0.507,0.00628,1.0,0.105,-7.336,0.0,0.0881,130.009,4.0,0.634
+85,2020-08-22,Jawsh 685 Jason Derulo,Savage Love (Laxed - Siren Beat),Jawsh 685,Savage Love (Laxed - Siren Beat) Jawsh 685,1xQ6trAsedVPCdbtDAmk0c,0.234,0.767,171375.0,0.481,0.0,0.0,0.269,-8.52,0.0,0.0803,150.076,4.0,0.761
+86,2020-08-29,Jawsh 685 Jason Derulo,Savage Love (Laxed - Siren Beat),Jawsh 685,Savage Love (Laxed - Siren Beat) Jawsh 685,1xQ6trAsedVPCdbtDAmk0c,0.234,0.767,171375.0,0.481,0.0,0.0,0.269,-8.52,0.0,0.0803,150.076,4.0,0.761

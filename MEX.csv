@@ -1,0 +1,88 @@
+,Date,Artist,TrackName,aSearch,searcher,uri,acousticness,danceability,duration_ms,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+0,2019-01-05,Janet & Daddy Yankee,Made For Now,Janet &,Made For Now Janet &,2Ul7yRZaxGcWCzQg7m632Z,0.00307,0.76,210686.0,0.888,1.49e-05,6.0,0.149,-3.449,1.0,0.124,115.705,4.0,0.559
+1,2019-01-12,Janet & Daddy Yankee,Made For Now,Janet &,Made For Now Janet &,2Ul7yRZaxGcWCzQg7m632Z,0.00307,0.76,210686.0,0.888,1.49e-05,6.0,0.149,-3.449,1.0,0.124,115.705,4.0,0.559
+2,2019-01-19,Ariana Grande,"Thank U, Next",Ariana Grande,"Thank U, Next Ariana Grande",3e9HZxeyfWwjeyPAMmWSSQ,0.229,0.717,207320.0,0.653,0.0,1.0,0.101,-5.634,1.0,0.0658,106.966,4.0,0.412
+3,2019-01-26,Ariana Grande,"Thank U, Next",Ariana Grande,"Thank U, Next Ariana Grande",3e9HZxeyfWwjeyPAMmWSSQ,0.229,0.717,207320.0,0.653,0.0,1.0,0.101,-5.634,1.0,0.0658,106.966,4.0,0.412
+4,2019-02-02,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone,Sunflower (Spider-Man: Into The Spider-Verse) Post Malone,3KkXRkHbMCARz0aVfEt68P,0.556,0.76,158040.0,0.479,0.0,2.0,0.0703,-5.574,1.0,0.0466,89.911,4.0,0.913
+5,2019-02-09,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone,Sunflower (Spider-Man: Into The Spider-Verse) Post Malone,3KkXRkHbMCARz0aVfEt68P,0.556,0.76,158040.0,0.479,0.0,2.0,0.0703,-5.574,1.0,0.0466,89.911,4.0,0.913
+6,2019-02-16,Pedro Capo Farruko,Calma,Pedro Capo,Calma Pedro Capo,5iwz1NiezX7WWjnCgY5TH4,0.323,0.826,238200.0,0.773,0.0,11.0,0.143,-4.218,0.0,0.0524,126.899,4.0,0.761
+7,2019-02-23,Post Malone & Swae Lee,Sunflower (Spider-Man: Into The Spider-Verse),Post Malone,Sunflower (Spider-Man: Into The Spider-Verse) Post Malone,3KkXRkHbMCARz0aVfEt68P,0.556,0.76,158040.0,0.479,0.0,2.0,0.0703,-5.574,1.0,0.0466,89.911,4.0,0.913
+8,2019-03-02,Sam Smith & Normani,Dancing With A Stranger,Sam Smith,Dancing With A Stranger Sam Smith,6Qs4SXO9dwPj5GKvVOv8Ki,0.45,0.741,171030.0,0.52,1.97e-06,8.0,0.222,-7.513,1.0,0.0656,102.998,4.0,0.347
+9,2019-03-09,Sam Smith & Normani,Dancing With A Stranger,Sam Smith,Dancing With A Stranger Sam Smith,6Qs4SXO9dwPj5GKvVOv8Ki,0.45,0.741,171030.0,0.52,1.97e-06,8.0,0.222,-7.513,1.0,0.0656,102.998,4.0,0.347
+10,2019-03-16,Juanes  Lalo Ebratt,La Plata,Juanes ,La Plata Juanes ,7Eso5mURNFprb5PmhOXDlf,0.201,0.762,195493.0,0.74,0.0,1.0,0.275,-4.72,0.0,0.226,167.881,4.0,0.961
+11,2019-03-23,J Balvin,Reggaeton,J Balvin,Reggaeton J Balvin,2D3z17LBMJ2HEHeBFFjTLi,0.0165,0.747,158800.0,0.74,9.94e-05,4.0,0.101,-4.325,0.0,0.191,176.059,4.0,0.552
+12,2019-03-30,J Balvin,Reggaeton,J Balvin,Reggaeton J Balvin,2D3z17LBMJ2HEHeBFFjTLi,0.0165,0.747,158800.0,0.74,9.94e-05,4.0,0.101,-4.325,0.0,0.191,176.059,4.0,0.552
+13,2019-04-06,Daddy Yankee & Katy Perry  Snow,Con Calma,Daddy Yankee,Con Calma Daddy Yankee,6tlUYa6yABiifYKLFWkvDt,0.11,0.737,193227.0,0.86,1.94e-06,8.0,0.0574,-2.652,0.0,0.0594,93.989,4.0,0.656
+14,2019-04-13,Maluma,HP,Maluma,HP Maluma,1LIqNVhaIgxXUt2eVoIQJ3,0.252,0.837,184436.0,0.791,1.14e-06,4.0,0.188,-3.157,0.0,0.0773,91.98,4.0,0.618
+15,2019-04-20,Daddy Yankee & Katy Perry  Snow,Con Calma,Daddy Yankee,Con Calma Daddy Yankee,6tlUYa6yABiifYKLFWkvDt,0.11,0.737,193227.0,0.86,1.94e-06,8.0,0.0574,-2.652,0.0,0.0594,93.989,4.0,0.656
+16,2019-04-27,BTS  Halsey,Boy With Luv,BTS ,Boy With Luv BTS ,5KawlOMHjWeUjQtnuRs22c,0.0923,0.645,229773.0,0.862,0.0,11.0,0.192,-4.757,0.0,0.0965,119.991,4.0,0.798
+17,2019-05-04,Daddy Yankee & Katy Perry  Snow,Con Calma,Daddy Yankee,Con Calma Daddy Yankee,6tlUYa6yABiifYKLFWkvDt,0.11,0.737,193227.0,0.86,1.94e-06,8.0,0.0574,-2.652,0.0,0.0594,93.989,4.0,0.656
+18,2019-05-11,Daddy Yankee & Katy Perry  Snow,Con Calma,Daddy Yankee,Con Calma Daddy Yankee,6tlUYa6yABiifYKLFWkvDt,0.11,0.737,193227.0,0.86,1.94e-06,8.0,0.0574,-2.652,0.0,0.0594,93.989,4.0,0.656
+19,2019-05-18,BTS  Halsey,Boy With Luv,BTS ,Boy With Luv BTS ,5KawlOMHjWeUjQtnuRs22c,0.0923,0.645,229773.0,0.862,0.0,11.0,0.192,-4.757,0.0,0.0965,119.991,4.0,0.798
+20,2019-05-25,Taylor Swift  Brendon Urie,ME!,Taylor Swift,ME! Taylor Swift,2Rk4JlNc2TPmZe2af99d45,0.033,0.61,193000.0,0.83,0.0,0.0,0.118,-4.105,1.0,0.0571,182.162,4.0,0.728
+21,2019-06-01,Jesse & Joy And J Balvin,Manana Es Too Late,Jesse &,Manana Es Too Late Jesse &,7ckO8bTkYT5YzwzwnZ6v5a,0.267,0.796,195227.0,0.779,0.0,11.0,0.335,-3.293,0.0,0.0933,92.004,4.0,0.875
+22,2019-06-08,Ed Sheeran & Justin Bieber,I Don't Care,Ed Sheeran,I Don't Care Ed Sheeran,3HVWdVOQ0ZA45FuZGSfvns,0.0912,0.798,219947.0,0.675,0.0,6.0,0.0894,-5.041,1.0,0.0442,101.956,4.0,0.842
+23,2019-06-15,Ed Sheeran & Justin Bieber,I Don't Care,Ed Sheeran,I Don't Care Ed Sheeran,3HVWdVOQ0ZA45FuZGSfvns,0.0912,0.798,219947.0,0.675,0.0,6.0,0.0894,-5.041,1.0,0.0442,101.956,4.0,0.842
+24,2019-06-22,Ed Sheeran & Justin Bieber,I Don't Care,Ed Sheeran,I Don't Care Ed Sheeran,3HVWdVOQ0ZA45FuZGSfvns,0.0912,0.798,219947.0,0.675,0.0,6.0,0.0894,-5.041,1.0,0.0442,101.956,4.0,0.842
+25,2019-06-29,"ROSALIA, J. Balvin & El Guincho",Con Altura,"ROSALIA, J.","Con Altura ROSALIA, J.",2qG5sZ7Si6sdK74qLxedYM,0.39,0.882,161627.0,0.689,0.00325,6.0,0.0501,-4.027,1.0,0.124,97.963,4.0,0.746
+26,2019-07-06,Maluma,11 PM,Maluma,11 PM Maluma,7KbF6AdprOXEEHlsq11Z6d,0.217,0.777,175733.0,0.712,0.0,10.0,0.091,-4.84,1.0,0.277,95.692,4.0,0.68
+27,2019-07-13,Maluma,11 PM,Maluma,11 PM Maluma,7KbF6AdprOXEEHlsq11Z6d,0.217,0.777,175733.0,0.712,0.0,10.0,0.091,-4.84,1.0,0.277,95.692,4.0,0.68
+28,2019-07-20,Maluma,11 PM,Maluma,11 PM Maluma,7KbF6AdprOXEEHlsq11Z6d,0.217,0.777,175733.0,0.712,0.0,10.0,0.091,-4.84,1.0,0.277,95.692,4.0,0.68
+29,2019-07-27,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+30,2019-08-03,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+31,2019-08-10,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+32,2019-08-17,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+33,2019-08-24,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+34,2019-08-31,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+35,2019-09-07,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+36,2019-09-14,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+37,2019-09-21,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+38,2019-09-28,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+39,2019-10-05,"Los Angeles Azules, Belinda & Lalo Ebratt  Horacio Palencia",Amor A Primera Vista,Los Angeles,Amor A Primera Vista Los Angeles,1E7RHPXA9sZ30qfms18J7J,0.223,0.675,221347.0,0.821,5.11e-05,0.0,0.149,-6.017,1.0,0.0668,170.163,4.0,0.96
+40,2019-10-12,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",China,"Anuel AA,","China Anuel AA,",2ksOAxtIxY8yElEWw8RhgK,0.0846,0.786,301714.0,0.808,0.000289,7.0,0.0822,-3.702,1.0,0.0882,105.027,4.0,0.609
+41,2019-10-19,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",China,"Anuel AA,","China Anuel AA,",2ksOAxtIxY8yElEWw8RhgK,0.0846,0.786,301714.0,0.808,0.000289,7.0,0.0822,-3.702,1.0,0.0882,105.027,4.0,0.609
+42,2019-10-26,Maluma  Ricky Martin,No Se Me Quita,Maluma ,No Se Me Quita Maluma ,1GBLO0NFODuL31A5fgw0uR,0.146,0.864,219933.0,0.869,0.0,7.0,0.063,-2.963,1.0,0.139,99.988,4.0,0.853
+43,2019-11-02,J Balvin & Bad Bunny,La Cancion,J Balvin,La Cancion J Balvin,33tLtOpFxD26vpYOnY6jse,0.152,0.756,242573.0,0.646,1.81e-05,7.0,0.108,-5.795,1.0,0.319,176.088,4.0,0.429
+44,2019-11-09,J Balvin & Bad Bunny,La Cancion,J Balvin,La Cancion J Balvin,33tLtOpFxD26vpYOnY6jse,0.152,0.756,242573.0,0.646,1.81e-05,7.0,0.108,-5.795,1.0,0.319,176.088,4.0,0.429
+45,2019-11-16,Camilo + Pedro Capo,Tutu,Camilo +,Tutu Camilo +,1nocRtwyNPVtGcIJqfgdzZ,0.273,0.731,178613.0,0.832,0.0,9.0,0.0665,-2.592,1.0,0.0503,146.013,4.0,0.94
+46,2019-11-23,Alejandro Fernandez,Caballero,Alejandro Fernandez,Caballero Alejandro Fernandez,5DL6BDuqhnQw8HfIvUYkm9,0.118,0.505,228507.0,0.411,0.0,11.0,0.146,-6.904,1.0,0.0325,101.69,4.0,0.534
+47,2019-11-30,Alejandro Fernandez,Caballero,Alejandro Fernandez,Caballero Alejandro Fernandez,5DL6BDuqhnQw8HfIvUYkm9,0.118,0.505,228507.0,0.411,0.0,11.0,0.146,-6.904,1.0,0.0325,101.69,4.0,0.534
+48,2019-12-07,Ozuna,Hasta Que Salga El Sol,Ozuna,Hasta Que Salga El Sol Ozuna,0dDboLfmRNsTBscy4j3Rnl,0.0201,0.826,188480.0,0.816,0.000939,1.0,0.127,-4.608,0.0,0.0683,96.042,4.0,0.598
+49,2019-12-14,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+50,2019-12-21,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+51,2019-12-28,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+52,2020-01-04,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+53,2020-01-11,Post Malone,Circles,Post Malone,Circles Post Malone,21jGcNKet2qwijlDFuPiPb,0.192,0.695,215280.0,0.762,0.00244,0.0,0.0863,-3.497,1.0,0.0395,120.042,4.0,0.553
+54,2020-01-18,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+55,2020-01-25,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+56,2020-02-01,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+57,2020-02-08,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+58,2020-02-15,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+59,2020-02-22,Tones And I,Dance Monkey,Tones And,Dance Monkey Tones And,2XU0oxnq2qxCpomAAuJY8K,0.692,0.824,209438.0,0.588,0.000104,6.0,0.149,-6.4,0.0,0.0924,98.027,4.0,0.513
+60,2020-02-29,Juanes & Christian Nodal,Tequila,Juanes &,Tequila Juanes &,02lGHA7bFFplYLihnUWTx8,0.226,0.757,159547.0,0.688,0.0,9.0,0.237,-4.546,1.0,0.112,155.994,4.0,0.704
+61,2020-03-07,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+62,2020-03-14,Alejandro Fernandez,Te Olvide,Alejandro Fernandez,Te Olvide Alejandro Fernandez,0zRc5cHuMrulujN8t1XbYE,0.0361,0.551,186200.0,0.508,0.0,1.0,0.0731,-5.994,1.0,0.0354,124.782,4.0,0.808
+63,2020-03-21,Ozuna,Fantasia,Ozuna,Fantasia Ozuna,40rXWke6SnXiGkSmaT8ZUr,0.227,0.695,175187.0,0.719,0.000171,2.0,0.0884,-5.938,1.0,0.0903,180.074,4.0,0.781
+64,2020-03-28,"Carlos Rivera, Becky G & Pedro Capo",Perdiendo La Cabeza,"Carlos Rivera,","Perdiendo La Cabeza Carlos Rivera,",2GTCK8zYHwkcu0i0jtKjFz,0.0917,0.739,165359.0,0.837,0.0,2.0,0.292,-3.128,1.0,0.198,167.891,4.0,0.73
+65,2020-04-04,J Balvin,Morado,J Balvin,Morado J Balvin,3mQ6SLdxxaL52Yte7KF2Ks,0.137,0.881,200667.0,0.696,4.13e-05,11.0,0.0927,-3.838,0.0,0.0797,97.002,4.0,0.781
+66,2020-04-11,J Balvin,Morado,J Balvin,Morado J Balvin,3mQ6SLdxxaL52Yte7KF2Ks,0.137,0.881,200667.0,0.696,4.13e-05,11.0,0.0927,-3.838,0.0,0.0797,97.002,4.0,0.781
+67,2020-04-18,Doja Cat,Say So,Doja Cat,Say So Doja Cat,3Dv1eDb0MEgF93GpLXlucZ,0.256,0.787,237893.0,0.673,3.57e-06,11.0,0.0904,-4.577,0.0,0.158,110.962,4.0,0.786
+68,2020-04-25,Doja Cat,Say So,Doja Cat,Say So Doja Cat,3Dv1eDb0MEgF93GpLXlucZ,0.256,0.787,237893.0,0.673,3.57e-06,11.0,0.0904,-4.577,0.0,0.158,110.962,4.0,0.786
+69,2020-05-02,Doja Cat,Say So,Doja Cat,Say So Doja Cat,3Dv1eDb0MEgF93GpLXlucZ,0.256,0.787,237893.0,0.673,3.57e-06,11.0,0.0904,-4.577,0.0,0.158,110.962,4.0,0.786
+70,2020-05-09,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+71,2020-05-16,The Weeknd,Blinding Lights,The Weeknd,Blinding Lights The Weeknd,0VjIjW4GlUZAMYd2vXMi3b,0.00146,0.514,200040.0,0.73,9.54e-05,1.0,0.0897,-5.934,1.0,0.0598,171.005,4.0,0.334
+72,2020-05-23,Doja Cat,Say So,Doja Cat,Say So Doja Cat,3Dv1eDb0MEgF93GpLXlucZ,0.256,0.787,237893.0,0.673,3.57e-06,11.0,0.0904,-4.577,0.0,0.158,110.962,4.0,0.786
+73,2020-05-30,Doja Cat,Say So,Doja Cat,Say So Doja Cat,3Dv1eDb0MEgF93GpLXlucZ,0.256,0.787,237893.0,0.673,3.57e-06,11.0,0.0904,-4.577,0.0,0.158,110.962,4.0,0.786
+74,2020-06-06,Doja Cat,Say So,Doja Cat,Say So Doja Cat,3Dv1eDb0MEgF93GpLXlucZ,0.256,0.787,237893.0,0.673,3.57e-06,11.0,0.0904,-4.577,0.0,0.158,110.962,4.0,0.786
+75,2020-06-13,Maluma,ADMV,Maluma,ADMV Maluma,3eJMSq78dDaFb7VvhNFnq6,0.817,0.565,193700.0,0.39,0.0,9.0,0.126,-4.959,1.0,0.0556,163.781,4.0,0.708
+76,2020-06-20,Raymix Paulina Rubio,Tu y Yo,Raymix Paulina,Tu y Yo Raymix Paulina,5vEOago0nOlDNn6C4IJWLd,0.028,0.775,188493.0,0.607,0.0,6.0,0.0837,-2.747,1.0,0.0529,93.007,4.0,0.963
+77,2020-06-27,Maluma,ADMV,Maluma,ADMV Maluma,3eJMSq78dDaFb7VvhNFnq6,0.817,0.565,193700.0,0.39,0.0,9.0,0.126,-4.959,1.0,0.0556,163.781,4.0,0.708
+78,2020-07-04,Maluma,ADMV,Maluma,ADMV Maluma,3eJMSq78dDaFb7VvhNFnq6,0.817,0.565,193700.0,0.39,0.0,9.0,0.126,-4.959,1.0,0.0556,163.781,4.0,0.708
+79,2020-07-11,Manuel Turizo,Quiereme Mientras Se Pueda,Manuel Turizo,Quiereme Mientras Se Pueda Manuel Turizo,34LI7rwi9H8w2S5KTHnv1M,0.447,0.793,191945.0,0.782,0.0,4.0,0.124,-3.945,1.0,0.0582,143.86,4.0,0.81
+80,2020-07-18,Conkarah  Shaggy,Banana,Conkarah ,Banana Conkarah ,0dZpw3h6KZhcHec61qwevZ,0.016,0.824,210329.0,0.854,4.95e-05,8.0,0.117,-5.312,1.0,0.177,95.114,4.0,0.896
+81,2020-07-25,BENEE  Gus Dapperton,Supalonely,BENEE ,Supalonely BENEE ,4nK5YrxbMGZstTLbvj6Gxw,0.305,0.863,223480.0,0.631,3.04e-05,7.0,0.123,-4.689,1.0,0.0534,128.977,4.0,0.817
+82,2020-08-01,Conkarah  Shaggy,Banana,Conkarah ,Banana Conkarah ,0dZpw3h6KZhcHec61qwevZ,0.016,0.824,210329.0,0.854,4.95e-05,8.0,0.117,-5.312,1.0,0.177,95.114,4.0,0.896
+83,2020-08-08,Conkarah  Shaggy,Banana,Conkarah ,Banana Conkarah ,0dZpw3h6KZhcHec61qwevZ,0.016,0.824,210329.0,0.854,4.95e-05,8.0,0.117,-5.312,1.0,0.177,95.114,4.0,0.896
+84,2020-08-15,Jawsh 685 Jason Derulo,Savage Love (Laxed - Siren Beat),Jawsh 685,Savage Love (Laxed - Siren Beat) Jawsh 685,1xQ6trAsedVPCdbtDAmk0c,0.234,0.767,171375.0,0.481,0.0,0.0,0.269,-8.52,0.0,0.0803,150.076,4.0,0.761
+85,2020-08-22,Conkarah  Shaggy,Banana,Conkarah ,Banana Conkarah ,0dZpw3h6KZhcHec61qwevZ,0.016,0.824,210329.0,0.854,4.95e-05,8.0,0.117,-5.312,1.0,0.177,95.114,4.0,0.896
+86,2020-08-29,Jawsh 685 Jason Derulo,Savage Love (Laxed - Siren Beat),Jawsh 685,Savage Love (Laxed - Siren Beat) Jawsh 685,1xQ6trAsedVPCdbtDAmk0c,0.234,0.767,171375.0,0.481,0.0,0.0,0.269,-8.52,0.0,0.0803,150.076,4.0,0.761
